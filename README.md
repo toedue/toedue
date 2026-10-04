@@ -10,7 +10,7 @@
 
 ---
 
-- 3rd year **CSE student** at Adama Science and Technology University (ASTU)
+- 4rd year **CSE student** at Adama Science and Technology University (ASTU)
 - Currently working on **ML projects & sharpening DSA skills**
 - Learning **Graph Algorithms, Dynamic Programming, Neural Networks**
 - Active on **Codeforces** and **LeetCode** — solving problems daily
